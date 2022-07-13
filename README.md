@@ -15,3 +15,5 @@ Currently, I am a student studying Website Devlopment - Frontend/Backend
 
 
 [![](https://komarev.com/ghpvc/?username=Killryde)](https://github.com/Killryde)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=killrydeofficial&count={count})
