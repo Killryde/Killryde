@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m Jaineel
-- 👀 I’m interested in Gaming, coding, programming, anime, music and sports
+- 👀 I’m interested in Gaming, coding, programming,  music and sports
 - 🌱 Currently Studying a Diploma of Information Technology Back End Web Development and Front End Web Development
 - 💞️ I’m looking to collaborate on my current projects
 - 📫 How to reach me via email khatrijaineel@gmail.com or on discord LostAstr0#0001
