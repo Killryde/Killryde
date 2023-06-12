@@ -6,7 +6,7 @@
 - 👀 I’m interested in Gaming, coding, programming,  music and sports
 - 🌱 Currently Studying a Diploma of Information Technology Back End Web Development and Front End Web Development
 - 💞️ I’m looking to collaborate on my current projects
-- 📫 How to reach me via email khatrijaineel@gmail.com or on discord LostAstr0#0001
+- 📫 How to reach me via email khatrijaineel@gmail.com or on discord loastasr0
 # 🧑‍💻 Current Languages I know
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
